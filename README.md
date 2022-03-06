@@ -10,3 +10,9 @@ features:
 make sure the `sqlite3` ,and `tabulate` pip packages are installed
 run with ```python3 main.py```
 
+NOTE:
+This project is a submission for hackhub 2022!
+https://hackhub.ieeecsvitc.com/
+
+video:
+coming soon
