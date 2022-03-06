@@ -15,4 +15,4 @@ This project is a submission for hackhub 2022!
 https://hackhub.ieeecsvitc.com/
 
 video:
-coming soon
+https://youtu.be/efsCBSsaWEk
